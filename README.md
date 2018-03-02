@@ -1,2 +1,2 @@
-# codice_pubblico
-codice pubblico dei progetti del podcast www.geekcooki.es
+## Codice pubblico
+Raccolta di codice pubblico realtivo ai progetti del podcast www.geekcooki.es
